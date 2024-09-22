@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
