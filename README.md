@@ -1,4 +1,4 @@
-# LibraryManagementSystem
+# Library Management System
 ## Context and Overview: The goal is to develop a Library Management System (LMS) using Java with Spring Boot 3 as the framework, Gradle as the build tool, and JDK 17. The LMS should support basic CRUD operations, advanced search, book issuing, serialization, and deserialization functionalities.
 
 ## Using Spring Boot will allow us to efficiently manage dependency injection, create RESTful APIs, and handle various other backend tasks seamlessly.
